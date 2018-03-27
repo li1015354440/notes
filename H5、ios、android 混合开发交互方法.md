@@ -1,6 +1,10 @@
-H5、ios、android 混合开发交互方法
+
+
 这里给大家讲解一下第三方工具 WebViewJavascriptBridge
+
+
 1.首先 和 ios 交互：
+
 
           function setupWebViewJavascriptBridge(callback) {
             if(window.WebViewJavascriptBridge) {
