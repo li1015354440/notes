@@ -40,9 +40,7 @@
 	
 andriod 交互相对简单一些。		
 		
-		
-		
-		
+推荐文章：https://www.jianshu.com/p/e37ccf32cb5b
 		
 		
 		
