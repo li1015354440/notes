@@ -22,7 +22,7 @@
 			}, 0)
 		}
    
-重点来了：
+重点来了，如何调用上面的方法：
 
 		setupWebViewJavascriptBridge(function(bridge) {
 			bridge.callHandler('getUserId', function(response) { //js调用oc方法 参数为oc提供的方法名
