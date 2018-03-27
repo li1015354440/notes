@@ -34,8 +34,11 @@
 			})
 		})
 		
-		
-		
+2.接下来和android交互：
+
+		var userId = bridge.userId(data); //bridge是android提供的对象名，userId是方法名，data为参数（需要就加）
+	
+andriod 交互相对简单一些。		
 		
 		
 		
