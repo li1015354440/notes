@@ -3,7 +3,6 @@ H5、ios、android 混合开发交互方法
 1.首先 和 ios 交互：
 
     <script>
-         //下面这个方法是固定方法，直接复制就可以
       function setupWebViewJavascriptBridge(callback) {
         if(window.WebViewJavascriptBridge) {
           return callback(WebViewJavascriptBridge);
